@@ -1,0 +1,1 @@
+These are practice exercises and demonstrations from the Network Programming in Java course on Udemy by ocsaly.com
